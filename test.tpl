@@ -1,7 +1,4 @@
 <html>
-HELLO!!!
-HI!!!
-<div>
-{{7*7}}
-</div>
+HELLO!
+<h1>TEMPLATE: {{7*7}}</h1>
 </html>
