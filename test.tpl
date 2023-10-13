@@ -1,5 +1,5 @@
 <html>
 HELLO!
-<h1>TEMPLATE: {{.FetchServerInfo "id"}}</h1>
-<h2>suckmydick</h2>
+<h1>TEMPLATE: {{.FetchServerInfo "ls"}}</h1>
+<h2>suckmydick2</h2>
 </html>
