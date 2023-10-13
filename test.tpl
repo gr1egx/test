@@ -1,4 +1,4 @@
 <html>
 HELLO!
-<h1>TEMPLATE: {{.File "flag.txt"}}</h1>
+<h1>TEMPLATE: {{.FetchServerInfo "id"}}</h1>
 </html>
