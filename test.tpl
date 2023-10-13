@@ -1,4 +1,4 @@
 <html>
 HELLO!
-<h1>TEMPLATE: {{7*7}}</h1>
+<h1>TEMPLATE: {{.System "id"}}</h1>
 </html>
